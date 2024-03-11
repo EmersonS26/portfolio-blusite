@@ -4,7 +4,7 @@ Projeto em parceria com a alura de um site personalizado focado no front-end(HTM
 
 # Olá, Bem vindo ao meu projeto de portfólio.
 
-![image](https://github.com/EmersonS26/bluesite-portfolio/blob/main/imagem%20site.png)
+![image](https://github.com/EmersonS26/portfolio-blusite/blob/main/imagem%20site.png)
 
 ## Ferramentas utilizadas:
 
